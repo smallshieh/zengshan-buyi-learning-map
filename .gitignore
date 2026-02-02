@@ -43,10 +43,8 @@ scripts/
 prompts/
 reports/
 data/
-project_management/
 reference/
 legacy_docs/
-.agent/
 
 # 臨時測試與說明檔
 codex_help.txt
