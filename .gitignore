@@ -33,7 +33,23 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# 個人筆記（如果有的話）
+# 個人筆記與草稿
 01_增刪卜易筆記.md
 private/
 drafts/
+
+# 工具與開發環境 (Antigravity 建議排除)
+scripts/
+prompts/
+reports/
+data/
+project_management/
+reference/
+legacy_docs/
+.agent/
+skills/
+
+# 臨時測試與說明檔
+codex_help.txt
+test_ollama_quality.py
+config.json
