@@ -1,3 +1,11 @@
+---
+date_lunar: "午月甲子日"
+question: "占父病"
+original_hexagram: ""
+changed_hexagram: ""
+result: "父病愈"
+tags: [增刪卜易/卦例]
+---
 # 六親類卦例索引
 
 > 本分類收錄 5 個與六親（父母、兄弟、子女等）相關的卦例

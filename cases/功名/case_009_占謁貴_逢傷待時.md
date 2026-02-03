@@ -1,13 +1,11 @@
 ---
-tags: [增刪卜易/卦例, 類別/功名/謁貴, 章節/月將章]
-date_lunar: 酉月丙寅日
-question: 占謁貴
-gua_original: 山風蠱
-gua_changed: 山水蒙
-key_factors: [月建, 回頭克, 逢傷亦傷, 待時之用]
-result: 驗
+date_lunar: "酉月丙寅日"
+question: "占謁貴"
+original_hexagram: "山風蠱"
+changed_hexagram: "山水蒙"
+result: "果得見於丙子日。"
+tags: [增刪卜易/卦例, 增刪卜易/卦例/占謁貴]
 ---
-
 # 📝 占驗詳情
 
 > **原文**：酉月丙寅日占謁貴得山風蠱變山水蒙

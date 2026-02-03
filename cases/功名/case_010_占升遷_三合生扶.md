@@ -1,13 +1,11 @@
 ---
-tags: [增刪卜易/卦例, 類別/功名/升遷, 章節/月將章]
-date_lunar: 寅月丙申日
-question: 占官之升遷
-gua_original: 艮為山
-gua_changed: 山雷頤
-key_factors: [月建, 日沖, 三合水局, 克處逢生]
-result: 驗
+date_lunar: "寅月丙申日"
+question: "占官之升遷"
+original_hexagram: "艮為山"
+changed_hexagram: "山雷頤"
+result: "果于三月升任雲南太守。"
+tags: [增刪卜易/卦例, 增刪卜易/卦例/占升遷]
 ---
-
 # 📝 占驗詳情
 
 > **原文**：寅月丙申日占官之升遷得艮卦變山雷頤

@@ -1,13 +1,12 @@
 ---
-tags: [增刪卜易/卦例, 類別/求財, 章節/旬空章]
-date_lunar: 辰月乙卯日
-question: 占求財
-gua_original: 風火家人
-gua_changed: 山火賁
-key_factors: [旬空, 多占之法, 伏神]
-result: 驗
+date_lunar: "辰月乙卯日（旬空）"
+question: "占求財"
+original_hexagram: "風火家人（宮位不明；世爻：妻財丑土；應爻：子孫巳火）"
+changed_hexagram: "山火賁（動爻：子孫巳火）"
+result: "後果全無。"
+tags: [增刪卜易/卦例, 增刪卜易/卦例/占求財]
+self_relation: "妻財"
 ---
-
 # 📝 占驗詳情
 
 > **原文**：辰月乙卯日占求財得家人之賁

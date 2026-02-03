@@ -1,13 +1,12 @@
 ---
-tags: [增刪卜易/卦例, 類別/求財, 章節/旬空章]
-date_lunar: 子月辛亥日
-question: 占遠行求財
-gua_original: 山天大畜
-gua_changed: 地火明夷
-key_factors: [旬空, 世空, 多占之法, 動不為空]
-result: 驗
+date_lunar: "子月辛亥日（旬空）"
+question: "占遠行求財"
+original_hexagram: "山天大畜（宮位不明；世爻：官鬼寅木；應爻：妻財子水）"
+changed_hexagram: ""
+result: "乙卯日起程，寅卯月間諸事順心，滿載而歸；甲寅日世出空為准行之期。"
+tags: [增刪卜易/卦例, 增刪卜易/卦例/占遠行求財]
+self_relation: "官鬼"
 ---
-
 # 📝 占驗詳情
 
 > **原文**：子月辛亥日占遠行求財得大畜

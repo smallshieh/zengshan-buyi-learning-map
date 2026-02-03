@@ -1,13 +1,12 @@
 ---
-tags: [增刪卜易/卦例, 類別/六親/父母, 章節/用神元神忌神仇神章]
-date_lunar: 辰月戊申日
-question: 占父近病
-gua_original: 乾為天
-gua_changed: 天風小畜
-key_factors: [月建, 暗動, 合住, 回頭生]
-result: 驗
+date_lunar: "辰月戊申日"
+question: "占父近病"
+original_hexagram: "乾為天（世爻：父母戌土；應爻：父母辰土；宮位未載）"
+changed_hexagram: "天風小畜（動爻：官鬼午火）"
+result: "果於丑日起床。"
+tags: [增刪卜易/卦例]
+self_relation: "父母"
 ---
-
 # 📝 占驗詳情
 
 > **原文**：辰月戊申日占父近病，得乾為天變天風小畜。
