@@ -1,0 +1,39 @@
+============================================================
+連結有效性驗證報告
+============================================================
+
+抽樣檔案數: 30
+連結總數: 105
+有效連結: 96 (91.4%)
+失效連結: 9 (8.6%)
+重複連結: 19
+
+失效連結詳情:
+
+檔案: README.md
+  - [[case_047_占索債_避凶得救]]
+    預期路徑: c:\Users\smallshieh\Obsidian筆記\case_047_占索債_避凶得救.md
+  - [[case_048_占夢_未避木害]]
+    預期路徑: c:\Users\smallshieh\Obsidian筆記\case_048_占夢_未避木害.md
+  - [[case_049_占夢_世變鬼死]]
+    預期路徑: c:\Users\smallshieh\Obsidian筆記\case_049_占夢_世變鬼死.md
+  - [[case_050_占夢_子持無災]]
+    預期路徑: c:\Users\smallshieh\Obsidian筆記\case_050_占夢_子持無災.md
+
+檔案: case_018_占終身功名_子持無名.md
+  - [[glossary/克]]
+    預期路徑: c:\Users\smallshieh\Obsidian筆記\glossary\克.md
+
+檔案: case_015_占升遷_十年兩調.md
+  - [[glossary/反吟]]
+    預期路徑: c:\Users\smallshieh\Obsidian筆記\glossary\反吟.md
+
+檔案: case_065_占南行_四卦催行.md
+  - [[glossary/衝開墓庫]]
+    預期路徑: c:\Users\smallshieh\Obsidian筆記\glossary\衝開墓庫.md
+
+檔案: case_082_占延師_父母旺相.md
+  - [[官鬼]]
+    預期路徑: c:\Users\smallshieh\Obsidian筆記\官鬼.md
+  - [[兄弟]]
+    預期路徑: c:\Users\smallshieh\Obsidian筆記\兄弟.md

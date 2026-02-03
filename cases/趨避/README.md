@@ -119,7 +119,7 @@
 
 - [[glossary/子孫爻]] - 解災化煞之神
 - [[glossary/官鬼爻]] - 災禍之源
-- [[glossary/元武]] - 盜賊之神
+- [[glossary/玄武]] - 盜賊之神
 - [[glossary/世爻]] - 自己之爻
 - [[glossary/旬空]] - 旬內所無
 - [[glossary/出空]] - 出旬空之時
