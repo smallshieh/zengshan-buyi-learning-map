@@ -45,6 +45,9 @@ reports/
 data/
 reference/
 legacy_docs/
+.agent/
+.gemini/
+skills/
 
 # 臨時測試與說明檔
 codex_help.txt
