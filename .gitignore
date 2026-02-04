@@ -113,6 +113,10 @@ reports/*.xlsx                  # Excel 報告 (通常不納入)
 .gemini/                        # Gemini 暫存 (Antigravity 系統)
 .cursor/                        # Cursor IDE
 
+# Agent 績效追蹤 (包含敏感評分資訊)
+original/.agent_performance.json
+original/.gatekeeper_log.json
+
 # 保留 .agent/skills/ (開源專案需要)
 # .agent/                       # ✅ Skills 系統應包含
 
