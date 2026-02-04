@@ -29,8 +29,10 @@ source_page: "page_005.txt"
 local_start: 120          # 該段落在本頁的起始字數
 local_length: 450         # 該段落總字數
 agent: "{YOUR_AGENT_ID}"  # 例如: Claude-3.5, DeepSeek-R1-32B-Local
-extraction_type: "case"
+agent_version: "v1.0"     # Agent 版本 (可選)
+extraction_type: "case"   # case/theory/glossary
 case_number: "057"        # 卦例編號 (如果能識別)
+extracted_at: "2026-02-04T18:26:00+08:00"  # ISO 8601 格式時間戳記
 verified: false           # 初次提取設為 false
 ---
 
@@ -44,6 +46,11 @@ verified: false           # 初次提取設為 false
 - **問事**: 父外任平安
 - **卦象**: 姤之恒
 - **結果**: ...
+
+---
+
+**提取者**: {AGENT_ID}  
+**提取時間**: {TIMESTAMP}
 ```
 
 ---

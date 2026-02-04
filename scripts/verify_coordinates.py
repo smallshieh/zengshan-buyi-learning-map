@@ -48,6 +48,17 @@ class CoordinateVerifier:
                 if field not in metadata:
                     errors.append(f"Missing required field: {field}")
             
+            # 驗證時間戳記
+            if 'extracted_at' in metadata:
+                try:
+                    from datetime import datetime
+                    # 嘗試解析 ISO 8601 格式
+                    datetime.fromisoformat(metadata['extracted_at'].replace('Z', '+00:00'))
+                except ValueError as e:
+                    errors.append(f"Invalid timestamp format: {metadata['extracted_at']} - {str(e)}")
+            else:
+                errors.append("Missing extracted_at timestamp (建議加入)")
+            
             # 驗證座標
             page_name = metadata.get('source_page')
             local_start = metadata.get('local_start')
