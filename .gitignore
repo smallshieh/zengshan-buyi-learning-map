@@ -50,6 +50,7 @@ legacy_docs/
 skills/
 
 # 臨時測試與說明檔
+_protype/
 codex_help.txt
 test_ollama_quality.py
 config.json
