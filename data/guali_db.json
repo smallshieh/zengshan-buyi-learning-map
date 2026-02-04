@@ -1,0 +1,1432 @@
+[
+  {
+    "time": "辰月戊申日",
+    "subject": "占父近病",
+    "original_hexagram": "乾為天（世爻：父母戌土；應爻：父母辰土；宮位未載）",
+    "changed_hexagram": "天風小畜（動爻：官鬼午火）",
+    "analysis": "三重父母爻擇臨月建者為用神，取辰土父母用神；申日沖寅木為暗動，寅木克辰土致病重；午火動化未土，午未相合合住，不生辰土，故辰土單受寅木之克；待丑日沖去未土，解合局，午火得生用神，病退。",
+    "outcome": "果於丑日起床。",
+    "_source_file": "cases\\六親\\case_001_占父近病.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月己卯日",
+    "subject": "弟占兄已得重罪叩問能救否",
+    "original_hexagram": "地雷復",
+    "changed_hexagram": "震為雷",
+    "analysis": "兄弟爻為用神，丑土兄動日月克之，明現大罪難脫，幸得丑土化午火父母爻回頭相生。斷曰速速行之，父母化兄爻相生為吉。",
+    "outcome": "後蒙恩免死。",
+    "_source_file": "cases\\六親\\case_002_占兄重罪.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月戊辰日",
+    "subject": "占妹臨產吉凶",
+    "original_hexagram": "火地晉（宮位未載；世爻：四爻兄弟酉金；應爻：初爻父母未土）",
+    "changed_hexagram": null,
+    "analysis": "酉金兄弟爻為用神，月令克之而日建生之，無礙；合住待沖開，卯日卯時可生。",
+    "outcome": "次日卯時生，母子平安。",
+    "_source_file": "cases\\六親\\case_003_占妹臨產_合住沖開.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月甲子日",
+    "subject": "占父病",
+    "original_hexagram": null,
+    "changed_hexagram": null,
+    "analysis": "父化退神、子孫持世",
+    "outcome": "父病愈",
+    "_source_file": "cases\\六親\\README.md",
+    "_ai_model": "Ollama (huihui_ai/deepseek-r1-abliterated:32b)"
+  },
+  {
+    "time": "申月 巳卯日",
+    "subject": "父子七人俱蒙拿問",
+    "original_hexagram": "巽卦（世爻：兄弟卯木；應爻：官鬼酉金）",
+    "changed_hexagram": "坤卦（動爻：兄弟卯木、子孫巳火、官鬼酉金、父母亥水）",
+    "analysis": "卦變巽木化坤土，名為化去不克，當主無妨。世爻變鬼，卯木化酉金，木破金克；子孫巳火又化亥水，父子兩爻皆被其傷。六沖亂室，一家俱受刑。占官事以六沖為宜，喜其沖散，然須看木之大小兼用神；此卦六沖變沖，亦官事逢沖而散。",
+    "outcome": null,
+    "_source_file": "cases\\其他\\case_102_占父子七人俱蒙拿.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "酉月 乙未日",
+    "subject": "占子久出不歸生死如何",
+    "original_hexagram": "坤卦（世爻：子孫酉金；應爻：官鬼卯木）",
+    "changed_hexagram": null,
+    "analysis": "世持子孫臨月建，未日生之，雖六沖之卦，此子必歸。此應靜而逢沖之驗。",
+    "outcome": "果於子年建功，卯年得意而歸。",
+    "_source_file": "cases\\其他\\case_103_占子久出不歸生死如何.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月 丙辰日",
+    "subject": "占出外經商貿易財如何",
+    "original_hexagram": "恒卦（世爻：官鬼酉金；應爻：妻財戌土）",
+    "changed_hexagram": "豫卦（動爻：官鬼酉金、父母亥水）",
+    "analysis": "世爻酉金化卯相沖及反復之卦，幸辰日合之，沖中逢合。又得戌土為財暗動生世，雖反復不常，卻有財利。爻動化沖如逢他敵，乃化回頭之克；此卦世爻酉金化卯沖世而不克世，又得辰日衝動戌財生世，所以為吉。",
+    "outcome": "此人去而複反者三次，中途發財。",
+    "_source_file": "cases\\其他\\case_105_占出外經商貿易財如何.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月戊子日",
+    "subject": "占地",
+    "original_hexagram": "巽卦",
+    "changed_hexagram": "升卦（巽之升）",
+    "analysis": "世為穴，世臨月建，日辰生之，是為吉也；但外卦反吟，世被酉金沖克，子孫被亥水沖克，不宜用之。",
+    "outcome": "後竟葬之，四年之內二男一女相繼而亡，自身得半身不遂；又怨祖父棺材暴露，竟至二年後沒，應酉年者，謂之再沖之年。",
+    "_source_file": "cases\\其他\\case_115_占地.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "寅月戊午日",
+    "subject": "占地",
+    "original_hexagram": "頤卦",
+    "changed_hexagram": "無妄卦（頤變無妄）",
+    "analysis": "世爻戌土，春天休囚，化出午火子孫回頭生世，日月世爻其成三合，青龍戲水，以化長生；申為月破，戌土克子水，又被日神沖散，春夏有水，秋冬必動；卦中日月世與子孫共成三合，死者安而生者樂，子孫昌盛。",
+    "outcome": "後竟葬之，辰年下葬，酉年孫中亞魁，至子年次孫又登鄉榜。",
+    "_source_file": "cases\\風水\\case_147_占地.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "申月丙子日",
+    "subject": "占出門",
+    "original_hexagram": "地火明夷",
+    "changed_hexagram": "雷山小過",
+    "analysis": "世動破，餘曰：合住必有事絆，不能動身。伊曰：因何而阻？餘曰：卦中子動變鬼，防兒女不安。彼曰：因小女多病，男家催促成婚，今欲往外求取財物以備妝奩。余曰：所得何病？彼曰：血枯成勞。餘曰：卯木子孫申月絕之，子日刑之，且動而化鬼，恐嫁之不及矣。",
+    "outcome": "後因病重，此人未去，女死辰日。",
+    "_source_file": "cases\\出行\\case_039_占出門_合住不動.md",
+    "_ai_model": "Ollama (huihui_ai/deepseek-r1-abliterated:32b)"
+  },
+  {
+    "time": "酉月丙寅日",
+    "subject": "占謁貴",
+    "original_hexagram": "山風蠱",
+    "changed_hexagram": "山水蒙",
+    "analysis": "世臨月建之官，定得面見，但被午火回頭克，須待子日沖去午火方得拜謁。",
+    "outcome": "果得見於丙子日。",
+    "_source_file": "cases\\功名\\case_009_占謁貴_逢傷待時.md",
+    "_ai_model": "Ollama (huihui_ai/deepseek-r1-abliterated:32b)"
+  },
+  {
+    "time": "寅月丙申日",
+    "subject": "占官之升遷",
+    "original_hexagram": "艮為山",
+    "changed_hexagram": "山雷頤",
+    "analysis": "寅木官鬼爻持世臨月建而旺相，雖被申日沖克，喜申子辰三合水局以生官，不獨無害，定然三月高遷。",
+    "outcome": "果于三月升任雲南太守。",
+    "_source_file": "cases\\功名\\case_010_占升遷_三合生扶.md",
+    "_ai_model": "Ollama (huihui_ai/deepseek-r1-abliterated:32b)"
+  },
+  {
+    "time": "卯月辛巳日",
+    "subject": "代卜長輩功名",
+    "original_hexagram": "巽為風（宮位未載；世爻/應爻未載）",
+    "changed_hexagram": "乾為天（卦變：巽木化乾金，化回頭克，絕卦）",
+    "analysis": "卦變化克為絕卦，不論用神衰旺皆以凶推；代占功名難取用神，然此卦凶兆明顯，言壽命不長。",
+    "outcome": "削職後七月而終。",
+    "_source_file": "cases\\功名\\case_011_代卜功名_化克絕卦.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "亥月 已丑日 旬空",
+    "subject": "占將來有官否",
+    "original_hexagram": "兌為澤（兌宮）世爻在父母未土，應爻在父母丑土",
+    "changed_hexagram": "火天大有（動爻：父母未土、官鬼巳火）",
+    "analysis": "官動而生世，世動化進神，有官之象；然官逢月破，世遇旬空，空者逢沖不為空，破者無日辰動爻生扶難起；再占官臨世位，前卦官動生世、後卦官持世，合斷仍有官。",
+    "outcome": "巳年承襲長房世職，應實破之年。",
+    "_source_file": "cases\\功名\\case_012_占將來有官_月破實破.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月 癸卯日",
+    "subject": "占後遇功名",
+    "original_hexagram": "艮為山（艮宮）世爻在官鬼寅木，應爻在子孫申金",
+    "changed_hexagram": "山風蠱（動爻：妻財子水、子孫申金）",
+    "analysis": "寅木官星持世被申金動爻克，今年七月必凶；應動克世主仇家；子水動爻接續相生，但月破化空，雖有如無，忌神與元神同動不能成用，故斷降級離任；冬至月始有驗，子年為實破之年當權起用，辰年子水入墓且太歲克之，申金復克世，禍更甚。",
+    "outcome": "七月成大非，冬至月事結降級調用；後甲子年巳月原品起用，卯年開督府；辰年三月得罪解往。",
+    "_source_file": "cases\\功名\\case_013_占後遇功名_平生凶吉.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "申月 癸卯日",
+    "subject": "占鄉試",
+    "original_hexagram": "雷風恒（世爻：官鬼酉金；應爻：妻財戌土）",
+    "changed_hexagram": "澤風大過（動爻：官鬼申金）",
+    "analysis": "酉金官星持世旺相，卯日沖之而暗動；九五官化進神，財爻助生扶，官星得旺，主今秋折桂、來春占鼇頭。",
+    "outcome": "果得聯捷。",
+    "_source_file": "cases\\功名\\case_014_占鄉試_化進聯捷.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "戌月 甲寅日",
+    "subject": "會試能聯捷否",
+    "original_hexagram": "火山旅（世爻：官鬼午火；應爻：父母辰土）",
+    "changed_hexagram": "火澤睽（動爻：父母戌土、官鬼午火）",
+    "analysis": "世爻隨官入三墓：動墓、化墓、月墓；日月合成官局旺相當時。明歲辰年辰月衝開墓庫，放榜之期不獨連登，定中狀元。",
+    "outcome": "果然如是。",
+    "_source_file": "cases\\功名\\case_015_占會試_三墓中狀元.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月 甲午日",
+    "subject": "占升遷",
+    "original_hexagram": "地水師（世爻：妻財午火；應爻：父母酉金）",
+    "changed_hexagram": "水澤節（動爻：父母酉金、兄弟亥水）",
+    "analysis": "世爻極旺，臨日建又得月令合世；官星兩現，一空一破。至辰年官而出空必高升；外卦反吟，去而復來。",
+    "outcome": "辰年調于河南，五月又調回楚，十月升督府；十年兩調一升，皆應實空之年。",
+    "_source_file": "cases\\功名\\case_016_占升遷_十年兩調.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "戌月己巳日",
+    "subject": "占南行",
+    "original_hexagram": "火天大有（世：四爻父母辰土；應：上爻官鬼巳火）",
+    "changed_hexagram": "雷天大壯（動爻：上爻官鬼巳火）",
+    "analysis": "應爻官星動而生世，官貴相生可喜；但巳火墓於戌月且化墓，又逢六沖，疑不吉。後連占三次皆同卦，悟為明年三四月衝開戌墓，巳火出墓至巳月得令，不破不空，旺相而生世。",
+    "outcome": "巳日起程，途中遇故識與知己，被促其行；後至地頭已二月。",
+    "_source_file": "cases\\功名\\case_017_占南行_四卦催行.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "辰月乙未日",
+    "subject": "占終身功名有無",
+    "original_hexagram": "地火明夷（世：四爻官鬼丑土；應：上爻子孫卯木）",
+    "changed_hexagram": "雷火豐（動爻：四爻官鬼丑土）",
+    "analysis": "官星丑土持世，化午火財，財旺生官，主納栗成名；動而逢沖之說，此處未沖世爻丑土，竟不見其散。",
+    "outcome": "卯年占卦，巳年援例連連納栗，官至府佐；未年出仕，戌年升任黃堂。",
+    "_source_file": "cases\\功名\\case_018_占終身功名_納栗成名.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "戌月戊辰日",
+    "subject": "占終身功名有無",
+    "original_hexagram": "山風蠱（靜卦）；世爻=官鬼酉金；應爻=兄弟寅木",
+    "changed_hexagram": null,
+    "analysis": "日月作財生世，白虎臨金官持世；官星持世而日月生之，主可立功成名，偏武途立功。",
+    "outcome": "隨營破寨奮勇當先，主帥嘉之授官，不出五載建奇功，官至元戎將軍。",
+    "_source_file": "cases\\功名\\case_019_占終身功名_立功建業.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "戌月丁卯日",
+    "subject": "占終身功名有無",
+    "original_hexagram": "水天需（靜卦）；世爻=子孫申金；應爻=妻財子水",
+    "changed_hexagram": null,
+    "analysis": "子孫持世，子孫克官，終非朝廊之客，任才力亦終身不許成名。",
+    "outcome": "讀書苦勝囊螢，竟未遊泮；後從戌二十餘載奔走名利或立軍功或援例納粟，皓首無成。",
+    "_source_file": "cases\\功名\\case_020_占終身功名_子持無名.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "辰月乙巳日／申月己卯日",
+    "subject": "占壽元",
+    "original_hexagram": "風澤中孚（世：三爻兄弟未土；應：初爻父母巳火）／山澤損（世：二爻兄弟丑土；應：上爻官鬼寅木）",
+    "changed_hexagram": "地雷復（動爻：上爻官鬼寅木、二爻官鬼卯木）",
+    "analysis": "初占世臨未土，巳日生之，月建扶之，世旺長壽。二十年後再占，多鬼搖發反不礙，太歲在子，遠享八年之福；未年鬼多入墓，又世逢年破為應期。",
+    "outcome": "果終於未年七月。",
+    "_source_file": "cases\\壽元\\case_052_占壽元_二十年驗.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "申月 癸巳日",
+    "subject": "父外任平安",
+    "original_hexagram": "姤（伏吟；世應未明）",
+    "changed_hexagram": "恒",
+    "analysis": "巳火日辰生父母，當許在任平安；然卦得伏吟不祥，任上必有事故，不得意而呻吟。日建生父，他事無礙；伏吟欲歸而不能，辰年可歸。",
+    "outcome": "後知苗獨作亂，地方不祥，驚險異常；寅年占卦，辰年缺歸，午年又官。",
+    "_source_file": "cases\\天時\\case_057_占父外任平安.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月 己亥日",
+    "subject": "升遷",
+    "original_hexagram": "臨（外卦反伏；世應未明）",
+    "changed_hexagram": "中孚",
+    "analysis": "世臨卯木月建之官，又長生於亥日，世與官星同臨旺地，許之即升；外卦反伏，去之而復反。",
+    "outcome": "果於本月聞報，由江西升任山東，未及一載復任江西。",
+    "_source_file": "cases\\天時\\case_058_占升遷.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月 壬申日",
+    "subject": "隨官府上任",
+    "original_hexagram": "比（反伏；世應未明）",
+    "changed_hexagram": "井",
+    "analysis": "世臨官鬼值月建而旺，隨去必成；但內卦反伏事有反復，不宜世爻絕於申日又化回頭沖克，此行不吉，不去者為上。",
+    "outcome": "後官府直接得缺，近於賊營，辭而不去；及官府去後又因他故隨去，至七月城破與官府一同被害。",
+    "_source_file": "cases\\風水\\case_153_占隨官上任.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月 丁巳日",
+    "subject": "已悔婚還可成否",
+    "original_hexagram": "離（六沖；世應未明）",
+    "changed_hexagram": "火山旅（六合）",
+    "analysis": "六沖變合，散而復聚，離而必合；此婚一定還成。",
+    "outcome": "次年三月仍成婚。",
+    "_source_file": "cases\\風水\\case_154_占已悔婚還可成否.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "辰月 庚寅日",
+    "subject": "占何日晴",
+    "original_hexagram": "觀（世：父母未土；應：父母未土）",
+    "changed_hexagram": "升（動爻：初、二、四、五爻）",
+    "analysis": "明日必晴，但反吟，晴而還雨。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_062_占何日晴.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "辰月 癸卯日",
+    "subject": "因晴占何日雨",
+    "original_hexagram": "蹇（世：兄弟申金；應：父母辰土）",
+    "changed_hexagram": null,
+    "analysis": "戌臨月破，陰雲而已，次日常見陰雲。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_063_占因晴何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "辰月 甲戌日",
+    "subject": "口占雨",
+    "original_hexagram": "大壯（世：父母午火；應：妻財子水）",
+    "changed_hexagram": "震（動爻：四、五爻）",
+    "analysis": "父不動，兄鬼同動，無雨有風；申時衝開寅木狂風。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_064_占口雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "辰月 戊申日",
+    "subject": "占本日陰晴",
+    "original_hexagram": "中孚（世：兄弟未土；應：父母巳火）",
+    "changed_hexagram": "小畜（動爻：四爻）",
+    "analysis": "只見一日陰雲，未見狂風累日。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_065_占本日陰晴.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "辰月 已卯日",
+    "subject": "占本日陰晴",
+    "original_hexagram": "屯（世：子孫寅木；應：官鬼戌土）",
+    "changed_hexagram": "臨（動爻：二、五爻）",
+    "analysis": "今日大晴，戌亥時黑雲。",
+    "outcome": "果戌時星辰無光。",
+    "_source_file": "cases\\天時\\case_066_占本日陰晴.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "丑月甲戌日",
+    "subject": "占何日雨",
+    "original_hexagram": "震卦（世：妻財戌土；應：妻財辰土）",
+    "changed_hexagram": "豫卦（父母子水動變）",
+    "analysis": "父母子水動，被未土回頭克。",
+    "outcome": "丑日雨。",
+    "_source_file": "cases\\天時\\case_067_占何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "丑月戊辰日",
+    "subject": "久雪占晴",
+    "original_hexagram": "隨卦（世：妻財辰土；應：妻財未土）",
+    "changed_hexagram": "震卦（官鬼酉金動變）",
+    "analysis": "鬼化退神，雨將止。",
+    "outcome": "酉時霧散天開。",
+    "_source_file": "cases\\天時\\case_068_占久雪晴.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月甲寅日",
+    "subject": "占風水",
+    "original_hexagram": "澤水困（宮位未載；世爻初爻，應爻四爻）",
+    "changed_hexagram": "水澤節（動爻：四爻、初爻）",
+    "analysis": "占祖塋，因葬後功名屢困、無子息而問。以亥水子孫化申金生之，申為源流，寅日沖之，判為流水不歸漕之故；若使水歸漕，明年起用，再拜丹墀，申年定生鱗種。六合卦變六合，萬載安然，占風水百代顯榮。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_069_占風水.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "亥月丙辰日",
+    "subject": "子易養否",
+    "original_hexagram": "姤卦",
+    "changed_hexagram": "旅卦",
+    "analysis": "亥水子孫臨月建五爻，兄動相生，旺極；丙日以亥為貴人，貴極。",
+    "outcome": "子爻變鬼，死於次年五月。",
+    "_source_file": "cases\\天時\\case_070_占子易養否.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "亥日庚子日",
+    "subject": "子孫有無",
+    "original_hexagram": "屯卦",
+    "changed_hexagram": "節卦",
+    "analysis": "子孫化子孫，原非已出。",
+    "outcome": "此公年六旬無出，自喜世爻子孫化子孫且月建合日辰生，謂有子且多。次年三月終於任立侄孫承嗣。",
+    "_source_file": "cases\\天時\\case_071_占子孫有無.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月丁巳日",
+    "subject": "占何日雨",
+    "original_hexagram": "渙卦（宮位不明），世爻在二爻，應爻在五爻",
+    "changed_hexagram": "坎卦（動爻：初爻父母卯木）",
+    "analysis": "卯木父動，應卯戌日，雨應長生亥日。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_072_占何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月甲午日",
+    "subject": "占晴",
+    "original_hexagram": null,
+    "changed_hexagram": "（變卦卦名不明，動爻：二爻子孫申金）",
+    "analysis": "申金子動化進神，酉日碧天如洗。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_073_占晴.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "申月辛卯日",
+    "subject": "占子嗣",
+    "original_hexagram": "復卦（宮位不明，世爻與應爻位置不明）",
+    "changed_hexagram": null,
+    "analysis": "身帶吉而子扶，日建衝動上爻子孫而生世，有遠方之子來。",
+    "outcome": "次年六月父子相逢（應期：次年六月）。",
+    "_source_file": "cases\\天時\\case_074_占子嗣.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "申月丙辰日",
+    "subject": "占何日雨",
+    "original_hexagram": "坎卦（宮位不明，世爻在初爻，應爻在四爻）",
+    "changed_hexagram": "困卦（動爻：三爻父母申金）",
+    "analysis": "庚申日雨，辛酉半陰晴，亥時大晴。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_075_占何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月丙申日",
+    "subject": "占何日雨晴",
+    "original_hexagram": "臨卦（宮位不明，世爻在五爻，應爻在五爻上方之六爻）",
+    "changed_hexagram": "蒙卦（動爻：初爻子孫酉金、六爻父母巳火）",
+    "analysis": "亥日沖空則雨，亥日酉時晴。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_076_占何日雨晴.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月丁卯日",
+    "subject": "占天何日雨",
+    "original_hexagram": "恒（世：官鬼酉金；應：妻財戌土）",
+    "changed_hexagram": "大過（動爻：官鬼申金）",
+    "analysis": null,
+    "outcome": "本日申時霹雹擎天，遠方大雨，本處灑來幾點。",
+    "_source_file": "cases\\天時\\case_077_占天何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月甲戌日",
+    "subject": "占天何日雨",
+    "original_hexagram": "小過（世：官鬼午火；應：父母辰土）",
+    "changed_hexagram": "旅（動爻：父母戌土）",
+    "analysis": "戌日沖辰父而暗動，戌化巳火鬼應雷雨。",
+    "outcome": "辰時起雲，辰末巳初雷雨大作。",
+    "_source_file": "cases\\天時\\case_078_占天何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月甲寅日",
+    "subject": "因連日晴占何日雨",
+    "original_hexagram": "既濟（世：兄弟亥水；應：兄弟子水）",
+    "changed_hexagram": "蹇（動爻：子孫卯木）",
+    "analysis": null,
+    "outcome": "辰日天陰，巳日必雨。辰日天變，巳日大雨。",
+    "_source_file": "cases\\天時\\case_079_占因連日晴何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "申月、丙子日",
+    "subject": "占出門",
+    "original_hexagram": "明夷（世動；子孫卯木動化官鬼辰土）",
+    "changed_hexagram": "小過（動爻：子孫卯木）",
+    "analysis": "合住必有事絆，不能動身；卦中子動變鬼，防兒女不安。",
+    "outcome": "因小女多病，欲外求財未能成行。卯木子孫申月絕、子日刑，且動變鬼，恐不及嫁；後女重病而卒於辰日。世動逢合故本人未去；女死辰日因卯木子孫變辰土。",
+    "_source_file": "cases\\天時\\case_081_占出門.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月 丁巳日",
+    "subject": "上下兩村因田水撕打",
+    "original_hexagram": "離為火（世爻：兄弟巳火；應爻：官鬼亥水；宮位：null）",
+    "changed_hexagram": "坤為地（變爻：兄弟巳火、妻財酉金、官鬼亥水、父母卯木動）",
+    "analysis": "內卦為我村，亥卯未三合木局；外卦為他村，巳酉丑三合金局克木。卯月木旺金衰，金不克旺木；六沖卦變六沖，必有人解散不成訟。",
+    "outcome": "後果勸散。",
+    "_source_file": "cases\\天時\\case_082_占上下兩村因田水撕打.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月 丙午日",
+    "subject": "再占何日雨",
+    "original_hexagram": "艮卦；世在初爻官鬼寅木，應在四爻子孫申金",
+    "changed_hexagram": "謙卦（動爻：初爻官鬼寅木）",
+    "analysis": "甲寅日陰雲，乙卯日必雨，辰日又晴。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_083_占再何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月 丙午日",
+    "subject": "占何雨",
+    "original_hexagram": "離卦；世在初爻兄弟巳火，應在四爻官鬼亥水",
+    "changed_hexagram": "旅卦（動爻：六爻父母卯木）",
+    "analysis": "卯木父動臨旬空，己酉不雨卯日必雨。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_084_占何雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月 甲午日",
+    "subject": "占何日雨",
+    "original_hexagram": "屯卦；世在二爻子孫寅木，應在五爻官鬼戌土",
+    "changed_hexagram": "中孚卦（動爻：上爻兄弟子水、二爻子孫寅木）",
+    "analysis": "財子不動、父鬼不動，知其旱，果兩月不雨。",
+    "outcome": "兩月不雨。",
+    "_source_file": "cases\\天時\\case_085_占何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月 丙午日",
+    "subject": "占何日雨",
+    "original_hexagram": "大壯卦；世在三爻父母午火，應在初爻妻財子水",
+    "changed_hexagram": "升卦（動爻：三爻父母午火、初爻妻財子水）",
+    "analysis": "未時一陣大雨，酉時既晴。",
+    "outcome": "未時一陣大雨，酉時既晴。",
+    "_source_file": "cases\\天時\\case_086_占何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月丁亥日",
+    "subject": "占本日陰晴",
+    "original_hexagram": "逐之否",
+    "changed_hexagram": "否（兄弟申金動化妻財卯木）",
+    "analysis": "申金兄爻為雲化卯木財爻。",
+    "outcome": "申時陰雲見日色，次日卯時大晴。",
+    "_source_file": "cases\\天時\\case_087_占本日陰晴.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月乙卯日",
+    "subject": "因連日雨本日亦雨占何日晴",
+    "original_hexagram": null,
+    "changed_hexagram": "（父母酉金動；子孫卯木動）",
+    "analysis": null,
+    "outcome": "今日酉時見日色，明日陰天，次日迷雲而雨。",
+    "_source_file": "cases\\天時\\case_088_占因連日雨本日亦雨何日晴.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月乙卯日",
+    "subject": "占何日晴",
+    "original_hexagram": "晉",
+    "changed_hexagram": "歸妹（官鬼巳火動；官鬼巳火動；父母未土動）",
+    "analysis": "父鬼疊見，連朝風雨之象。",
+    "outcome": "次日又占仍雨旬日。",
+    "_source_file": "cases\\天時\\case_089_占何日晴.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "戌日丙午日",
+    "subject": "占何日雨",
+    "original_hexagram": "坎",
+    "changed_hexagram": "井（妻財午火動）",
+    "analysis": null,
+    "outcome": "酉日天變，戌日而雨。",
+    "_source_file": "cases\\天時\\case_090_占何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "寅月癸日",
+    "subject": "占子嗣多少",
+    "original_hexagram": "坤",
+    "changed_hexagram": "艮",
+    "analysis": "鬼變子孫、子孫變鬼，有一而遇者皆無子。此卦兩現，無子之兆。",
+    "outcome": "少年難於子嗣，五旬外連得四子，長子六歲。後三五年內生者生、死者死，生過九子並無一存，臨終立侄承嗣。",
+    "_source_file": "cases\\天時\\case_091_占子嗣多少.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "寅日五更",
+    "subject": "占本日何時有雨",
+    "original_hexagram": "睽（世：子孫酉金，應：父母巳火）",
+    "changed_hexagram": "履（動爻：兄弟未土）",
+    "analysis": "未時必雨，申時大晴。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_092_占本日何時有雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "酉日丙子日後再占",
+    "subject": "占何日雨",
+    "original_hexagram": "大壯（世：父母午火，應：妻財子水）",
+    "changed_hexagram": "泰（動爻：父母午火）",
+    "analysis": "午火父長生於寅，亦應寅日雨。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_093_占何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "酉日丙子日",
+    "subject": "占何日雨",
+    "original_hexagram": "蒙（世：子孫戌土，應：父母寅木）",
+    "changed_hexagram": "臨（動爻：父母寅木、父母寅木）",
+    "analysis": "上下寅木父動，寅日必雨。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_094_占何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "酉日丙子日再占",
+    "subject": "占何日雨",
+    "original_hexagram": "隨（世：妻財辰土，應：妻財未土）",
+    "changed_hexagram": "屯（動爻：父母亥水）",
+    "analysis": "亥水父動，動逢合之日，亦應寅日雨。",
+    "outcome": null,
+    "_source_file": "cases\\天時\\case_095_占何日雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "酉月初五戊子日",
+    "subject": "占中秋雨",
+    "original_hexagram": "小過（世：官鬼午火，應：父母辰土）",
+    "changed_hexagram": "豐（動爻：父母辰土）",
+    "analysis": "辰父動，中秋有雨。",
+    "outcome": "實應初九辰日即雨。",
+    "_source_file": "cases\\天時\\case_096_占中秋雨.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "酉月癸未日",
+    "subject": "占何晴",
+    "original_hexagram": "訟卦，宮位未明，世爻在兄弟午火，應爻在父母寅木",
+    "changed_hexagram": "隨卦，動爻：子孫戌土、子孫辰土、父母寅木",
+    "analysis": null,
+    "outcome": "戌時天開見星斗，應戌時晴。",
+    "_source_file": "cases\\天時\\case_097_占何晴.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "酉月乙巳日",
+    "subject": "占本日陰晴",
+    "original_hexagram": "升卦，宮位未明，世爻在妻財丑土，應爻在妻財丑土",
+    "changed_hexagram": "恒卦，動爻：妻財丑土",
+    "analysis": null,
+    "outcome": "上半日雖晴常有浮雲掩日，午時後滿天紅日無雲。",
+    "_source_file": "cases\\天時\\case_098_占本日陰晴.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "壬辰日、癸巳日",
+    "subject": "占中秋晴否",
+    "original_hexagram": "屯卦，宮位未明，世爻在子孫寅木，應爻在官鬼戌土",
+    "changed_hexagram": "中孚卦，動爻：兄弟子水、子孫寅木",
+    "analysis": "財動子動，不見父鬼，知其晴。",
+    "outcome": "中秋夜月明星稀。",
+    "_source_file": "cases\\天時\\case_099_占中秋晴否.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "子月已亥日",
+    "subject": "因連日雪占何日晴",
+    "original_hexagram": "觀卦，宮位未明，世爻在父母未土，應爻在父母未土",
+    "changed_hexagram": "比卦，動爻：妻財卯木",
+    "analysis": null,
+    "outcome": "今日陰天，明日卯時必晴，果次日卯時雲開日出。",
+    "_source_file": "cases\\天時\\case_100_占因連日雪何日晴.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月乙卯日",
+    "subject": "占妻病",
+    "original_hexagram": "震卦，宮位未明，世爻在妻財戌土，應爻在妻財辰土",
+    "changed_hexagram": "豐卦，動爻：妻財戌土、子孫午火",
+    "analysis": "辰土財爻為用神，近病逢沖即愈，許之當愈於辰日，不然酉日必愈。許辰日愈者，辰土逢值之日也；許酉日者，辰與酉合動而逢合之日也；今愈子日，辰土財爻旺於子也。",
+    "outcome": "後因連日昏沉，竟於子日起床。",
+    "_source_file": "cases\\天時\\case_101_占妻病.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月丁巳日",
+    "subject": "占已悔婚還可成否",
+    "original_hexagram": "離為火；世爻=兄弟巳火；應爻=官鬼亥水",
+    "changed_hexagram": "火山旅（動爻=父母卯木）",
+    "analysis": "六沖變六合，散而復聚，離而必合；此類卦象不看用神，竟以吉斷。",
+    "outcome": "果於次年三月仍成婚。",
+    "_source_file": "cases\\婚姻\\case_050_占悔婚_六沖變合.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月乙丑日",
+    "subject": "占求婚成否",
+    "original_hexagram": "澤火革；世爻=妻財未土；應爻=兄弟寅木",
+    "changed_hexagram": "天火同人（動爻=子孫巳火、妻財未土、官鬼酉金、父母子水）",
+    "analysis": "財爻持世化進神，子孫巳火動生世；但巳火化子水回頭克，待午日沖去子水且午火合世則成；官鬼酉金動化退神，雖阻無力。",
+    "outcome": "果於午日允婚。",
+    "_source_file": "cases\\婚姻\\case_051_占求婚_財進鬼退.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月丁巳日",
+    "subject": "已悔婚還可成否",
+    "original_hexagram": "離卦（宮位：null；世爻：兄弟巳火；應爻：官鬼亥水）",
+    "changed_hexagram": "火山旅（動爻：父母卯木）",
+    "analysis": "此卦六沖變合，散而復聚，離而必合，故雖難以吉斷，終必復合成婚。",
+    "outcome": "果於次年三月仍成婚。",
+    "_source_file": "cases\\婚姻\\case_107_占已悔婚還可成否.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月已亥日",
+    "subject": "占夫妻不和將來如好否？",
+    "original_hexagram": "需卦（宮位：null；世爻：子孫申金；應爻：妻財子水）",
+    "changed_hexagram": "大過卦（動爻：子孫申金、妻財子水）",
+    "analysis": "女占夫，子孫持世為克夫之象，幸寅木子水相生不能傷；應爻為夫，應逢子丑作合，夫已有外遇，水木相生，情密。兩人非姻緣，不能死別必有生離；應期在寅月夫臨寅木沖世，六月未土衝開初爻丑土，子水生寅木。",
+    "outcome": "次年寅月休妻，六月再取彼婦。",
+    "_source_file": "cases\\婚姻\\case_108_占夫妻不和將來如好否_.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "寅月丙午日",
+    "subject": "女家代占婚",
+    "original_hexagram": "臨卦（宮位：null；世爻：官鬼卯木；應爻：妻財亥水）",
+    "changed_hexagram": "既濟卦（動爻：妻財亥水、兄弟丑土、官鬼卯木）",
+    "analysis": "女家占男，以官為用、應為男家；卯木旺官持世似婚必成，但應爻受克為男家不允。財官為重、世應為輕，財爻回頭克又逢丑土之克，不能生卯木，男女不能相合相生，婚雖成終有他變。",
+    "outcome": "聘定於四月，未及成婚被賊兵劫去；應巳月者亥水逢月破也。",
+    "_source_file": "cases\\婚姻\\case_109_占女家代婚.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "子月癸酉日",
+    "subject": "自占婚",
+    "original_hexagram": "恒卦（宮位：null；世爻：官鬼酉金；應爻：妻財戌土）",
+    "changed_hexagram": "鼎卦（動爻：妻財戌土）",
+    "analysis": "酉官持世，戌土財爻動而生世，又得世應相生；戌土值旬空，動不為空，明日出空求之必允。",
+    "outcome": "次日巳時允婚，夫妻白頭相守，兒女成行。",
+    "_source_file": "cases\\婚姻\\case_111_占自婚.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月丁卯日",
+    "subject": "占婚於何時",
+    "original_hexagram": "泰卦",
+    "changed_hexagram": null,
+    "analysis": "兄爻持世，亥財臨月破旬空，子水之財，世爻克之，日辰刑之，泰卦雖吉，婚姻事不敢試卦，命之再占。",
+    "outcome": null,
+    "_source_file": "cases\\婚姻\\case_112_占婚於何時.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月丁未日",
+    "subject": "占夫妻偕老否",
+    "original_hexagram": "無妄卦",
+    "changed_hexagram": "觀卦（世爻變出未土之財）",
+    "analysis": "滿盤俱是財爻，世爻變出之未土與世爻相合，此未土之財乃正妻也，臨日建遇月生扶，不獨偕老，且許賢比周南。",
+    "outcome": null,
+    "_source_file": "cases\\婚姻\\case_113_占夫妻偕老否.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "酉月辛巳日",
+    "subject": "占夫婦將來和俁否",
+    "original_hexagram": "泰卦",
+    "changed_hexagram": null,
+    "analysis": "兄爻持世以克妻財，幸財爻亥水酉金生之，財旺難於克害；巳日衝動亥水，又臨驛馬，妻財臨馬而暗動，心去難留，生離之象；若非兄爻持世，定遇財化退神，後竟生離。",
+    "outcome": "後竟生離。",
+    "_source_file": "cases\\婚姻\\case_114_占夫婦將來和俁否.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "酉月甲寅日",
+    "subject": "占延師",
+    "original_hexagram": "山風蠱，巽宮，世爻：官鬼酉金，應爻：兄弟寅木",
+    "changed_hexagram": null,
+    "analysis": "占延師以父母爻為用神。卦中子水、亥水兩重父母，取其旺者為用；亥水得寅日木生、酉月金生旺相。世爻官鬼為師之威嚴，持世示師有德有威；應爻寅木生亥水父母，示其樂於教導。六爻安靜無克害父母，師生相宜。",
+    "outcome": "延此師後，子弟學業大進，師生相得，三年後中舉。",
+    "_source_file": "cases\\學業\\case_056_占延師_父母旺相.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月戊寅日",
+    "subject": "占父官事已擬重罪",
+    "original_hexagram": "澤地萃，兌宮，世爻：官鬼巳火，應爻：兄弟酉金",
+    "changed_hexagram": "天火同人，動爻：父母未土（上爻）、妻財卯木、父母未土（初爻）",
+    "analysis": "外卦未土父母為用神，卯月克之；內卦亥卯未三合木局又相克制，月克日刑，全無生助，無救必應凶。",
+    "outcome": "果至重刑。",
+    "_source_file": "cases\\官訟\\case_004_占父官事重罪.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月戊寅日",
+    "subject": "妹占兄官事同此一案亦擬重罪",
+    "original_hexagram": "天地否，乾宮，世爻：妻財卯木，應爻：父母戌土",
+    "changed_hexagram": "天水訟，動爻：官鬼巳火",
+    "analysis": "申金兄弟為用神，巳火鬼動刑克申金，重罪可定；幸辰日沖戌土父母暗動生申，克處逢生，有父母可救。",
+    "outcome": "後因父年八十，援例恩留免死。",
+    "_source_file": "cases\\官訟\\case_005_妹占兄官事.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月丁未日",
+    "subject": "占弟被訟吉凶",
+    "original_hexagram": "澤水困（世爻：妻財寅木；應爻：子孫亥水）",
+    "changed_hexagram": "雷風恒（動爻：兄弟酉金、官鬼午火）",
+    "analysis": "兄弟酉金為用神，午月克之、未日生之尚可相敵，惟午火動出增克，最怕他爻增克制。午火為月建入卦作忌神，禍不淺。酉金化申金為退神，今歲辰年太歲合酉金暫無妨，退至申年則凶。",
+    "outcome": "本年下獄，至申年而重刑。",
+    "_source_file": "cases\\官訟\\case_006_占弟被訟_月建入卦.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月丁巳日",
+    "subject": "上下兩村因田水撕打",
+    "original_hexagram": "離為火（世爻：兄弟巳火；應爻：官鬼亥水）",
+    "changed_hexagram": "坤為地（動爻：兄弟巳火、妻財酉金、官鬼亥水、父母卯木）",
+    "analysis": "內卦為我村，亥卯未三合木局；外卦為他村，巳酉丑三合金局來克木。卯月木旺金衰，金不克木不足畏。又為六沖卦變六沖，必有人解散不成訟。",
+    "outcome": "後果勸散。",
+    "_source_file": "cases\\風水\\case_150_占上下兩村因田水撕打.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "酉月甲辰日",
+    "subject": "占自陳何如",
+    "original_hexagram": "水澤節（世爻：妻財午火；應爻：父母酉金）",
+    "changed_hexagram": "水雷屯（動爻：妻財午火、官鬼辰土、子孫寅木）",
+    "analysis": "世化回頭克，官化退神，子孫化進神，三爻皆非吉象，大凶之兆。",
+    "outcome": "次年革職拿問。",
+    "_source_file": "cases\\官訟\\case_008_占自陳_三爻皆凶.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "寅月甲子日",
+    "subject": "占家宅吉凶",
+    "original_hexagram": "坤為地（世爻：子孫酉金；應爻：官鬼卯木）",
+    "changed_hexagram": "地雷復（動爻：官鬼卯木）",
+    "analysis": "占家宅以父母爻為用神，巳火父母雖不持世，得寅月木旺生火，日辰子水雖克而木火通明，父母有氣。世爻子孫持世主安寧。官鬼卯木動化兄弟辰土為回頭克，又被月建寅木合住不能為害。財爻亥水旺相主財源，兄弟丑土、未土靜不劫財。",
+    "outcome": "居此宅後家道興旺、人口平安；至卯月因鄰里小事起爭執，後和解。",
+    "_source_file": "cases\\家宅\\case_053_占家宅吉凶_六親安泰.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "申月庚辰日",
+    "subject": "占遷居吉凶",
+    "original_hexagram": "風地觀（世爻：父母未土；應爻：父母未土）",
+    "changed_hexagram": null,
+    "analysis": "占遷居以世爻動靜為主，世動則遷、世靜則守。此卦父母未土世爻安靜不動，且臨月破，示不宜遷。未土月破得辰日合解破，父母為宅靜守宜守舊。六爻皆靜，更驗守舊之象。",
+    "outcome": "未遷居，後因他事耽擱遷居之念遂止；次年再占得動卦方遷，新宅順遂。",
+    "_source_file": "cases\\家宅\\case_054_占遷居_世靜宜守.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "寅月 丁酉日",
+    "subject": "占開鋪面",
+    "original_hexagram": "艮為山（艮宮，世爻：官鬼寅木；應爻：子孫申金）",
+    "changed_hexagram": "地火明夷（動爻：官鬼寅木、兄弟辰土）",
+    "analysis": "世臨寅木得令，當時旺相；然日辰克世，世化回頭克，生少克多，又為六沖卦，不吉。鬼在身邊須防疾病，夥伴變心受其累。",
+    "outcome": "六月疾至，八月夥計盜盡，鳴官無復。",
+    "_source_file": "cases\\求財\\case_023_占開鋪面_器滿則傾.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月 庚子日",
+    "subject": "占求財",
+    "original_hexagram": "風天小畜（巽宮，世爻：父母子水；應爻：妻財未土）",
+    "changed_hexagram": null,
+    "analysis": "應臨月建之財克世，許之必得。用神兩現，舍不空之未土而用旬空之辰土，待出空之日應驗。",
+    "outcome": "得於辰土出空之日。",
+    "_source_file": "cases\\求財\\case_026_占求財_舍實用空.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月 庚寅日",
+    "subject": "占掣簽何處",
+    "original_hexagram": "山天大畜（艮宮，世爻：官鬼寅木；應爻：妻財子水）",
+    "changed_hexagram": "風澤中孚（動爻：妻財子水、兄弟辰土）",
+    "analysis": "世臨寅木官星，主東缺；嫌子水財爻月破動而化絕，財為養命之源與朝廷之祿，財絕則官無生，元神被傷如水無源，為凶兆。",
+    "outcome": "七月先得瀉疾，稍愈後因服補藥太過，終渴死。",
+    "_source_file": "cases\\求財\\case_027_占掣簽_水無源.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月 申日",
+    "subject": "占終身財福",
+    "original_hexagram": "地雷復（世爻：初爻子水，應爻：四爻丑土）",
+    "changed_hexagram": "山雷頤（動爻：子孫酉金動）",
+    "analysis": "五爻亥水財、世爻子水財皆長生於申日，雖不當令卻得日建之生。獨嫌酉金子孫衝破而化絕，財旺福空，生平衣祿不少而難於積蓄成家。",
+    "outcome": "此人三十七歲入典鋪掌櫃，財東更換者三而仍在櫃，活至七旬之一，每年工食養家，生四子二女。",
+    "_source_file": "cases\\求財\\case_028_占終身財福_財旺福空.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "戌月 辛亥日",
+    "subject": "占終身財福",
+    "original_hexagram": "水地比（世爻：四爻卯木，應爻：上爻子水）",
+    "changed_hexagram": "風地觀（動爻：上爻子水動）",
+    "analysis": "世爻雖旬空，月建合之，亥日生之；子水財爻動而生世，卯年實空之年必成家，勃然發福。",
+    "outcome": "丑年占卦，果至卯年立業成家；於川中帶出附子黃蓮桑材數擔，勃然家蓄數千余金，連年豐足。",
+    "_source_file": "cases\\求財\\case_029_占終身財福_世空勃發.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "戊子日",
+    "subject": "占生產",
+    "original_hexagram": "山地剝（世爻：五爻子水，應爻：二爻巳火）",
+    "changed_hexagram": "風地觀（動爻：五爻子水動）",
+    "analysis": "子水子孫化巳火官鬼，水絕於巳，化絕變鬼，雖青龍臨子孫亦難掩其凶。",
+    "outcome": "本日落草而亡。",
+    "_source_file": "cases\\生產\\case_049_占生產_青龍無用.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月 丁巳日",
+    "subject": "占產期",
+    "original_hexagram": "離為火（世爻：上爻巳火，應爻：三爻亥水）",
+    "changed_hexagram": "火山旅（動爻：三爻亥水動）",
+    "analysis": "占生產以子孫爻為用神。卦中未土、丑土兩重子孫，卯月木旺土相，未土得月令為用神。應爻亥水官鬼發動，動則主臨產，化申金妻財則母安。此卦六沖，主速產；未土子孫與丑土相沖，沖則速也。",
+    "outcome": "斷曰當於丑日或丑時生產；果驗次日戊午日丑時臨盆順產得一子，母子均安。",
+    "_source_file": "cases\\生產\\case_055_占產期_六沖主速.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月乙未日",
+    "subject": "自占病",
+    "original_hexagram": "澤風大過（世爻：父母亥水；應爻：妻財丑土）",
+    "changed_hexagram": "火風鼎（動爻：妻財未土、官鬼酉金）",
+    "analysis": "世爻亥水為用神，被未土忌神動而克；酉金元神亦動，忌神未土反生元神之酉金，金生亥水，接續相生化凶。然亥水月沖日克，值月破，用神無根，雖有生扶亦難起。",
+    "outcome": "果卒於癸卯日，應卯日沖去元神之日也。",
+    "_source_file": "cases\\疾病\\case_031_自占病_用神無根.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "辰月丙申日",
+    "subject": "占弟癌症業已臨危",
+    "original_hexagram": "水火既濟（世爻：兄弟亥水；應爻：兄弟子水）",
+    "changed_hexagram": "澤火革（動爻：父母申金）",
+    "analysis": "月建辰土雖克亥水，兄弟爻賴申日生之，又得動爻相生，克處逢生，臨危有救。",
+    "outcome": "果於本日酉時遇名醫救活，至巳亥日以全生。",
+    "_source_file": "cases\\疾病\\case_032_占弟癌症臨危.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "申月戊午日",
+    "subject": "占病",
+    "original_hexagram": "天山遁（世爻：官鬼午火；應爻：兄弟申金）",
+    "changed_hexagram": "天風姤（動爻：官鬼午火）",
+    "analysis": "世爻午火臨日辰，本主旺相；但申金月建生亥水回頭克世，雖臨日建亦難免凶。",
+    "outcome": "卒於亥月。",
+    "_source_file": "cases\\疾病\\case_033_占病_日旺月克.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "申月甲辰日",
+    "subject": "占兄病",
+    "original_hexagram": "水雷屯（世爻：子孫寅木；應爻：官鬼戌土）",
+    "changed_hexagram": "震為雷（動爻：官鬼戌土、父母申金）",
+    "analysis": "子水兄弟爻為用神，卦中忌神、元神同動；戌土動生申金，申金動而生子水，月建又生子水，接續相生，吉象。",
+    "outcome": "至戊申日沉屙複起（病癒）。",
+    "_source_file": "cases\\疾病\\case_034_占兄病_六神無礙.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "寅月已未日",
+    "subject": "占女痘",
+    "original_hexagram": "坤為地（世爻：子孫酉金；應爻：官鬼卯木）",
+    "changed_hexagram": "地雷師（動爻：父母巳火）",
+    "analysis": "酉金子孫爻雖春令休囚，得日辰生；巳火動而克金，未日衝動丑土，土動生金，克處逢生，暗動救治，應期未日申時。",
+    "outcome": "果于申時遇明醫救治。",
+    "_source_file": "cases\\疾病\\case_035_占女痘_暗動救治.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月 己卯日",
+    "subject": "占妻病",
+    "original_hexagram": "震為雷（世：妻財戌土，應：妻財辰土）",
+    "changed_hexagram": "雷火豐（動爻：妻財戌土）",
+    "analysis": "辰土財爻為用神，近病逢沖即愈，許之當愈於辰日，不然酉日必愈。",
+    "outcome": "竟於子日起床，應子日為辰土財爻旺於子之期。",
+    "_source_file": "cases\\疾病\\case_036_占妻病_土旺於子.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月 丙辰日",
+    "subject": "占父病",
+    "original_hexagram": "地雷復（世爻：妻財子水；應爻：兄弟丑土）",
+    "changed_hexagram": null,
+    "analysis": "父母用神不現，伏于寅木下，飛來生伏；再占兩卦合斷，前兩卦巳火父母旺相即愈，第三卦亥水回頭克父，今冬難延；三卦雷同以定近遠。",
+    "outcome": "目下即愈，果絕于亥月。",
+    "_source_file": "cases\\疾病\\case_037_占父病_三卦雷同.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "丑月 癸卯日",
+    "subject": "占妻病服藥可愈否",
+    "original_hexagram": "地澤臨（世爻：官鬼卯木；應爻：妻財亥水）",
+    "changed_hexagram": "天澤履（動爻：兄弟丑土）",
+    "analysis": "兄弟動化進克妻財，且臨月建化旬空，仍主進；辰日出空為應期。",
+    "outcome": "其妻死于辰日。",
+    "_source_file": "cases\\疾病\\case_038_占妻病_兄進妻死.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月 亥日",
+    "subject": "占僕何日回",
+    "original_hexagram": "天澤夬（乾宮），世爻：子孫酉金；應爻：官鬼寅木",
+    "changed_hexagram": "天澤履（動爻：兄弟未土、兄弟辰土）",
+    "analysis": "亥水財爻為用神，亥為月破而臨日建不破；然四重土動克之，寡不敵眾，難望歸期且防不測。",
+    "outcome": "午月卯日得信，中途已遭害。",
+    "_source_file": "cases\\行人\\case_041_占僕何日回_寡不敵眾.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "辰月 戊子日",
+    "subject": "占父何日歸",
+    "original_hexagram": "乾為天（乾宮），世爻：父母戌土；應爻：父母辰土",
+    "changed_hexagram": "天澤履（動爻：父母戌土）",
+    "analysis": "父母持世，月破而化空，古法用神無氣；然朱雀臨父動而持世，斷卯日有信、午未日必歸。",
+    "outcome": "卯日得信；乙未日到家（破而逢合、化空出空之應）。",
+    "_source_file": "cases\\行人\\case_042_占父何日歸_破而逢合.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "丑月丙戌日",
+    "subject": "占父有信至已起程我去迎之可能遇否",
+    "original_hexagram": "水天需",
+    "changed_hexagram": "雷天大壯",
+    "analysis": "父化退神，父已歸矣；世化進神而欲去；父爻生世一定相逢，必相會於未日。",
+    "outcome": "果得遇未日。",
+    "_source_file": "cases\\行人\\case_043_占迎父_父退我進.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月丙寅日",
+    "subject": "占索債得否",
+    "original_hexagram": "風雷益",
+    "changed_hexagram": "風澤中孚",
+    "analysis": "日日辰動化進神克世，因世爻落空，辰時出空被日月動爻之克，必有危亡之禍；避之則吉。",
+    "outcome": "飯後去到江傍忽而跑回拜謝活命之恩，早時江中大船覆沒，避辰時而得救。",
+    "_source_file": "cases\\趨避\\case_044_占索債_避凶得救.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "丑月戊子日",
+    "subject": "占夢",
+    "original_hexagram": "風雷益",
+    "changed_hexagram": "風澤中孚",
+    "analysis": "元武發動化進神，克世克財不獨劫財，遠防身遭木害；巽宮屬木，木動克世，木害須防；世與木爻皆在內卦，出外可避，巽為少女，勿貪幼婦；交春可以避之。",
+    "outcome": "正月亥日宿于妾房，被賊明火入室席捲一空，身受木器所傷。",
+    "_source_file": "cases\\趨避\\case_045_占夢_未避木害.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月丁亥日",
+    "subject": "占夢前夫叫去已隨去矣",
+    "original_hexagram": "坎為水",
+    "changed_hexagram": "澤水困",
+    "analysis": "世爻亥水臨日辰，仍當重重土克；今冬防厄。",
+    "outcome": "九月成癆，臘月而死。",
+    "_source_file": "cases\\趨避\\case_046_占夢_世變鬼死.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "戌月戊申日",
+    "subject": "占夢母叫去已隨去矣",
+    "original_hexagram": "風山漸",
+    "changed_hexagram": null,
+    "analysis": "凶夢相同生死各別；前卦世爻變鬼死于臘月；後卦子孫持世竟無凶災。",
+    "outcome": "竟無凶災。",
+    "_source_file": "cases\\趨避\\case_047_占夢_子持無災.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月甲寅日",
+    "subject": "占祖塋風水，疑塋有疑而致功名屢困、無子息",
+    "original_hexagram": "澤水困（世：妻財寅木，應：子孫亥水）",
+    "changed_hexagram": "水澤節（動爻：子孫亥水、妻財寅木）",
+    "analysis": "占祖塋以子孫爻為用神，亥水化申金生之，申為源流，寅日沖之，謂水不歸漕致傍流；若使水歸漕，明年起用，再拜丹墀，申年定生鱗種；又以六合卦變六合，萬載安然。",
+    "outcome": null,
+    "_source_file": "cases\\風水\\case_048_占風水_六合變合.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "辰月戊子日",
+    "subject": "小舟過關恐盤阻",
+    "original_hexagram": "水地比（世爻：官鬼卯木；應爻：妻財子水）",
+    "changed_hexagram": "澤山咸（動爻：子孫申金、官鬼卯木）",
+    "analysis": "世爻之鬼為憂疑，申金克去身邊之鬼則無憂。",
+    "outcome": "果於卯日過關，並無阻滯。",
+    "_source_file": "cases\\風水\\case_117_占小舟過關恐盤阻.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "丑月庚子日（世爻空）",
+    "subject": "關差得否",
+    "original_hexagram": "泰（世爻：兄弟辰土；應爻：子孫酉金）",
+    "changed_hexagram": "明夷（動爻：官鬼寅木）",
+    "analysis": "官鬼為用，寅木官鬼克世，世爻空。",
+    "outcome": "即於壬寅日得差，次年三月死於中途。",
+    "_source_file": "cases\\風水\\case_118_占關差得否.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "六月壬子日（旬空）",
+    "subject": "子病",
+    "original_hexagram": "姤（世爻：父母丑土；應爻：官鬼午火）",
+    "changed_hexagram": "大過（動爻：父母戌土）",
+    "analysis": "用爻亥水無氣本為凶兆，喜值旬空而避之。",
+    "outcome": "至丙子日而愈。",
+    "_source_file": "cases\\風水\\case_119_占子病.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "亥月丙午日",
+    "subject": "母占子何日脫厄",
+    "original_hexagram": "豫（世爻：妻財未土；應爻：子孫午火）",
+    "changed_hexagram": "歸妹（動爻：子孫巳火、妻財未土）",
+    "analysis": "卦中三現子孫俱生世爻。午逢日建而靜，兩爻巳火逢月破，許巳年脫厄，乃實破之年，果脫厄於巳年。此乃用神三現而用逢破之爻也。",
+    "outcome": "果脫厄於巳年。",
+    "_source_file": "cases\\風水\\case_120_占母子何日脫厄.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "申月戊午年",
+    "subject": "領文書",
+    "original_hexagram": "風雷益（世爻：妻財辰土；應爻：兄弟卯木）",
+    "changed_hexagram": "家人（動爻：妻財辰土）",
+    "analysis": "忌臨世位。",
+    "outcome": "即於酉日得文書。同日子占父亦得此卦，亥日見父。",
+    "_source_file": "cases\\風水\\case_121_占領文書.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "丙申日",
+    "subject": "文書",
+    "original_hexagram": "舊存占驗",
+    "changed_hexagram": null,
+    "analysis": "以父母爻為用神，卦中無父母巳火，父母伏於妻財寅木之下，又遇旬空，所以文書不成。",
+    "outcome": null,
+    "_source_file": "cases\\風水\\case_122_占文書.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "戌月己酉日",
+    "subject": "文書",
+    "original_hexagram": "小畜",
+    "changed_hexagram": "蠱",
+    "analysis": "以五爻動出文書與世爻變出干支相合許戊子日成文書。野鶴謂文書旺動，雖不論干支相合亦可成。",
+    "outcome": null,
+    "_source_file": "cases\\風水\\case_123_占文書.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "申月乙未日",
+    "subject": "脫役",
+    "original_hexagram": "損",
+    "changed_hexagram": "節",
+    "analysis": "世臨丑土，子水財動生助寅木之鬼克世，喜得日辰未土與變爻戌土扶助世爻，可以敵鬼不能傷身。",
+    "outcome": null,
+    "_source_file": "cases\\風水\\case_124_占脫役.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月壬子日",
+    "subject": "鄉試",
+    "original_hexagram": "水地比",
+    "changed_hexagram": null,
+    "analysis": "父爻當月建文星旺，嫌官星持世卯木旬空，許之卯科方得遂意。",
+    "outcome": "子年占，果于卯年登科。卯年太歲填實不空也。",
+    "_source_file": "cases\\風水\\case_125_占鄉試.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月庚子日",
+    "subject": "求財",
+    "original_hexagram": "風天小畜",
+    "changed_hexagram": null,
+    "analysis": "應臨月建之財以克世，許之必得。問何時到手，答次日辛丑衝動未財日得，卻得於辰土出空之日。此乃舍其不空而用旬空。",
+    "outcome": null,
+    "_source_file": "cases\\風水\\case_126_占求財.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月甲申日",
+    "subject": "病",
+    "original_hexagram": "地山謙",
+    "changed_hexagram": "水山蹇（亥水世爻動，化戌土）",
+    "analysis": "亥水長生于申日，世遇日建逢生；雖化戌土之克，卯月克制，有殺無妨。",
+    "outcome": "丁亥日全愈；後至巳月亥逢月破，巳火生助戌土，復得病而死。",
+    "_source_file": "cases\\風水\\case_127_占病.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "丑月壬子日",
+    "subject": "訟",
+    "original_hexagram": "原卦記述",
+    "changed_hexagram": null,
+    "analysis": "世臨午火，子日沖之，休囚為日破，今日若審必有責罰。",
+    "outcome": "本日見官責杖二十。",
+    "_source_file": "cases\\風水\\case_128_占訟.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "戌月丙子日",
+    "subject": "父任雲南何時得信",
+    "original_hexagram": "地澤臨",
+    "changed_hexagram": null,
+    "analysis": "朱雀巳火父母為用，日辰子水克巳火，戌月為巳火月墓，日克音信茫然；世爻卯木雖遇日生月合亦無益。",
+    "outcome": "後果無音訊，四年知父而遇害。",
+    "_source_file": "cases\\風水\\case_129_占父任雲南何時得信.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月未日",
+    "subject": "久病",
+    "original_hexagram": "困",
+    "changed_hexagram": "兌（寅木世爻動，化巳火）",
+    "analysis": "世爻寅木化出巳爻，寅能刑巳，三刑少申字，防申日之危。",
+    "outcome": "果卒于申日。",
+    "_source_file": "cases\\風水\\case_130_占久病.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "辰月乙未日",
+    "subject": "月令",
+    "original_hexagram": "泰",
+    "changed_hexagram": "豐（丑土、寅木動）",
+    "analysis": "世爻辰土得月建助，又得丑土回頭生扶，雖寅木鬼動可敵。",
+    "outcome": "至辛丑日仍見其凶，因觸怒上司幾危殆，幸得解救。",
+    "_source_file": "cases\\風水\\case_131_占月令.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "戌月 甲寅日",
+    "subject": "候選何時得缺",
+    "original_hexagram": "益卦（宮位未明；世爻在第四爻，應爻在初爻與上爻）",
+    "changed_hexagram": "騫卦（動爻：上爻、四爻、初爻）",
+    "analysis": "世爻臨月破，又逢寅日傷克，上卦卯木克世，有克無生。世變官星實為變鬼。",
+    "outcome": "第二年寅月不中榜",
+    "_source_file": "cases\\風水\\case_132_占候選何時得缺.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月 庚寅日",
+    "subject": "官運",
+    "original_hexagram": "原卦記述（宮位未明；世爻在三爻與四爻，應爻在上爻與初爻）",
+    "changed_hexagram": "變卦未明（動爻：三爻）",
+    "analysis": "世臨亥水，子年太歲拱扶。世爻化回頭生又得日辰相合，官星當權得令，仕途平坦。惟兄爻持世財伏被克。防巳年太歲沖害刑申，蹭蹬榮歸。",
+    "outcome": "巳年被論，宦囊消索",
+    "_source_file": "cases\\風水\\case_133_占官運.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "酉月 乙巳日",
+    "subject": "升遷",
+    "original_hexagram": "澤地萃卦（宮位未明；世爻在五爻，應爻在上爻）",
+    "changed_hexagram": "天地否卦（動爻：上爻）",
+    "analysis": "巳火官星持世臨日建。巳日衝動亥月與發動之未爻欲成三合，因少卯字，明年卯月必升。",
+    "outcome": "果升於卯月",
+    "_source_file": "cases\\風水\\case_134_占升遷.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月 甲午日",
+    "subject": "升遷",
+    "original_hexagram": "師卦（宮位未明；世爻在四爻，應爻在上爻與二爻）",
+    "changed_hexagram": "渙卦（動爻：上爻、五爻）",
+    "analysis": "世爻極旺，臨日建得月令作官星而合世，但官星兩現一空一破。至辰年官出空一定高升。外卦反吟，去而復來。",
+    "outcome": "辰年調河南，五月又調回楚，十月而升督府。十年兩調一升，皆應實空之年",
+    "_source_file": "cases\\風水\\case_135_占升遷.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月 辛巳日",
+    "subject": "自陳何如",
+    "original_hexagram": "恒卦（宮位未明；世爻在四爻，應爻在上爻與初爻）",
+    "changed_hexagram": "升卦（動爻：三爻）",
+    "analysis": "酉官持世破且空，又動出午火相克，不獨削職，須防五六月見凶災。",
+    "outcome": "五月下獄",
+    "_source_file": "cases\\風水\\case_136_占自陳何如.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月 壬申日",
+    "subject": "開店貿易",
+    "original_hexagram": "原卦記述，世爻子孫酉金，應爻官鬼卯木",
+    "changed_hexagram": "變卦卦名不明；動爻：子孫酉金、兄弟丑土、父母巳火",
+    "analysis": "財臨月破，子動生財生不起，且世與子孫同變鬼。",
+    "outcome": "今秋必因子女致官非；果於八月因賭博送官，子受杖刑而死。",
+    "_source_file": "cases\\風水\\case_137_占開店貿易.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "辰月 丙辰日",
+    "subject": "地下忽然起五色之光疑有古窖",
+    "original_hexagram": "原卦記述，世爻子孫酉金，應爻父母巳火",
+    "changed_hexagram": "變卦卦名不明；動爻：子孫酉金、兄弟丑土、父母巳火",
+    "analysis": "財伏而空，全無影響，五色之光為妖氣。",
+    "outcome": "後掘之，掘破缸一口，盡是瓦屑泥土。",
+    "_source_file": "cases\\風水\\case_138_占地下忽然起五色之光疑有古窖.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "戊寅日",
+    "subject": "占財",
+    "original_hexagram": "同人，世爻官鬼亥水，應爻子孫戌土",
+    "changed_hexagram": "乾；動爻：子孫丑土",
+    "analysis": "用爻入墓，喜得日辰克破；沖空則實，破墓則開。",
+    "outcome": "後果得財。",
+    "_source_file": "cases\\風水\\case_139_占財.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "巳月 丙申日",
+    "subject": "求財",
+    "original_hexagram": "未濟，世爻兄弟午火，應爻兄弟巳火",
+    "changed_hexagram": "鼎；動爻：兄弟午火",
+    "analysis": "忌臨世位化酉財，即於酉日得財。",
+    "outcome": "於酉日得財。",
+    "_source_file": "cases\\風水\\case_140_占求財.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "午月 癸丑日",
+    "subject": "妻病",
+    "original_hexagram": "原卦記述，世爻官鬼巳火，應爻兄弟酉金",
+    "changed_hexagram": "變卦卦名不明；動爻：子孫亥水",
+    "analysis": "卯日財空，次日出空必退災；亥水子孫獨發克去世爻之鬼，應在明日寅日合起子孫。",
+    "outcome": "果於次日退災，不藥而愈。",
+    "_source_file": "cases\\風水\\case_141_占妻病.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月 戊辰日",
+    "subject": "年運",
+    "original_hexagram": "原卦記述（卦名與宮位未載；世爻：妻財子水；應爻：兄弟丑土）",
+    "changed_hexagram": "動爻：兄弟辰土、妻財子水（變卦卦名未載）",
+    "analysis": "世爻子水休囚無氣，化回頭克，又被辰土克。",
+    "outcome": "卯年占，卒於午年，應午年世臨歲破之年。",
+    "_source_file": "cases\\風水\\case_142_占年運.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "丑月 丁酉日（世空）",
+    "subject": "占父出外一載無音",
+    "original_hexagram": "風水渙（世爻：兄弟巳火；應爻：子孫辰土）",
+    "changed_hexagram": "變坎卦（動爻：父母卯木）",
+    "analysis": "卯木父爻發動而生世，又化子水回頭生許之，在外平安。世空者還至交春即歸。沖散之議：黃金策以空亡為重，沖散為輕；易冒最重沖散。",
+    "outcome": "果于二月得意而回。",
+    "_source_file": "cases\\風水\\case_143_占父出外一載無音.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月 甲寅日",
+    "subject": "占風水（祖塋疑問）",
+    "original_hexagram": "困卦（卦宮、世應未載）",
+    "changed_hexagram": "節卦",
+    "analysis": "龍自右脈來，水從左還源而不歸漕，故功名屢困、無子息；若使水歸漕不至傍流，則可轉吉。",
+    "outcome": "明年起用、申年生子；久後安泰，六合萬載安然。",
+    "_source_file": "cases\\風水\\case_144_占風水_祖塋疑_.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月 乙巳日",
+    "subject": "占穴（陰宅點穴）",
+    "original_hexagram": "大壯卦（世爻：父母午火；應爻：妻財子水）",
+    "changed_hexagram": null,
+    "analysis": "世在四爻，穴在中段；午火持世，宜尋草木枯焦、紅色野花處；以紅原錢驗之，得錢處即穴。",
+    "outcome": "次年開府，兩公郎五年內俱登甲榜。",
+    "_source_file": "cases\\風水\\case_145_占穴_陰宅點穴_.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月 戊子日",
+    "subject": "占地",
+    "original_hexagram": "巽卦（世爻：兄弟卯木；應爻：官鬼酉金）",
+    "changed_hexagram": "升卦（動爻：兄弟卯木、子孫巳火）",
+    "analysis": "世為穴，世臨月建，日辰生之，是為吉也，但不宜外卦反吟，世被酉金沖克，子孫被亥水沖克，不宜用之。",
+    "outcome": "後竟葬之，四年之內二男一女相繼而亡，自身又得半身不遂之疾，二年後沒，應酉年者，謂之再沖之年。",
+    "_source_file": "cases\\風水\\case_146_占地.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "寅月戊午日",
+    "subject": "占地",
+    "original_hexagram": "頤卦",
+    "changed_hexagram": "無妄卦（頤變無妄）",
+    "analysis": "世爻戌土，春天休囚，化出午火子孫回頭生世，日月世爻其成三合，青龍戲水，以化長生；申為月破，戌土克子水，又被日神沖散，春夏有水，秋冬必動；卦中日月世與子孫共成三合，死者安而生者樂，子孫昌盛。",
+    "outcome": "後竟葬之，辰年下葬，酉年孫中亞魁，至子年次孫又登鄉榜。",
+    "_source_file": "cases\\風水\\case_147_占地.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月壬辰日",
+    "subject": "占父何時起用",
+    "original_hexagram": "風水渙（宮位不明；世爻五爻兄弟巳火；應爻二爻子孫辰土）",
+    "changed_hexagram": "夬（動爻：上爻父母卯木、四爻子孫未土、三爻兄弟午火、初爻父母寅木）",
+    "analysis": "內卦寅木父母旺而化出子水之官，許寅年仍以原品起用；初爻寅年而起用，上爻卯木父動而化未年，占時未墓爻空，空墓以待死，所以終於實墓之年；用神重疊墓庫以收藏。",
+    "outcome": "果應於寅年起用，後終於未年。",
+    "_source_file": "cases\\風水\\case_148_占父何時起用.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "申月癸巳日",
+    "subject": "父外任平安",
+    "original_hexagram": "姤（宮位不明；世爻應爻不明）",
+    "changed_hexagram": null,
+    "analysis": "巳火日辰生父母，當許在任平安；卦得伏吟為不祥之象，任上必有事故；日建生父，他事無礙；伏吟欲歸而不能，辰年可歸。",
+    "outcome": "後知苗獨作亂，地方不祥，驚險異常；寅年占卦，辰年缺歸，午年又官者，占時遇巳日扶起午火之官，當日亥水克之而不盡，今午火官星值年依然旺矣。",
+    "_source_file": "cases\\風水\\case_149_占父外任平安.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月丁巳日",
+    "subject": "上下兩村因田水撕打",
+    "original_hexagram": "離為火（世爻：兄弟巳火；應爻：官鬼亥水）",
+    "changed_hexagram": "坤為地（動爻：兄弟巳火、妻財酉金、官鬼亥水、父母卯木）",
+    "analysis": "內卦為我村，亥卯未三合木局；外卦為他村，巳酉丑三合金局來克木。卯月木旺金衰，金不克木不足畏。又為六沖卦變六沖，必有人解散不成訟。",
+    "outcome": "後果勸散。",
+    "_source_file": "cases\\風水\\case_150_占上下兩村因田水撕打.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月己亥日",
+    "subject": "升遷",
+    "original_hexagram": "臨（宮位不明；世爻應爻不明）",
+    "changed_hexagram": "中孚（動爻不明）",
+    "analysis": "世臨卯木月建之官，又長生於亥日，世與官星同臨旺地，許之即升；外卦反伏，去之而複反也。",
+    "outcome": "果于本月聞報，由江西升任山東，未及一載複任江西。",
+    "_source_file": "cases\\風水\\case_151_占升遷.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "卯月 壬申日",
+    "subject": "隨官府上任",
+    "original_hexagram": "比（反伏；世應未明）",
+    "changed_hexagram": "井",
+    "analysis": "世臨官鬼值月建而旺，隨去必成；但內卦反伏事有反復，不宜世爻絕於申日又化回頭沖克，此行不吉，不去者為上。",
+    "outcome": "後官府直接得缺，近於賊營，辭而不去；及官府去後又因他故隨去，至七月城破與官府一同被害。",
+    "_source_file": "cases\\風水\\case_153_占隨官上任.md",
+    "_ai_model": "OpenAI Codex"
+  },
+  {
+    "time": "未月 丁巳日",
+    "subject": "已悔婚還可成否",
+    "original_hexagram": "離（六沖；世應未明）",
+    "changed_hexagram": "火山旅（六合）",
+    "analysis": "六沖變合，散而復聚，離而必合；此婚一定還成。",
+    "outcome": "次年三月仍成婚。",
+    "_source_file": "cases\\風水\\case_154_占已悔婚還可成否.md",
+    "_ai_model": "OpenAI Codex"
+  }
+]
